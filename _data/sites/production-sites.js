@@ -15,6 +15,6 @@ module.exports = {
 	},
 	urls: [
 		"https://www.keywestgroundparrot.com/",
-		"https://www.kpimodoro.com/",
+		"https://www.kpimodoro.herokuapp.com/",
 	]
 };
