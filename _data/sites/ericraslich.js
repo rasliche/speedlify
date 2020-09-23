@@ -23,7 +23,7 @@ module.exports = {
 		"https://ericraslich.com/cv/",
 		// "Popular" Projects
 		"https://ericraslich.com/projects/couch-to-5k/",
-		// Popular Posts
+		// "Popular" Posts
 		"https://ericraslich.com/posts/2020-05-10-ethereum-fast-sync-raspberry-pi-4/",
 		"https://ericraslich.com/posts/2020-04-14-something-about-a-gecko/",
 		"https://ericraslich.com/posts/2020-03-15-blue-hole-key-deer/"
