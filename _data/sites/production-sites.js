@@ -1,6 +1,6 @@
 module.exports = {
 	name: "Production Sites", // optional, falls back to object key
-	description: "Production sites made by Eric.",
+	description: "Production sites made by Eric",
 	// skip if localhost
 	// skip if this is a new fork of the speedlify (not Zach’s)
 	// set to false to run
@@ -16,5 +16,6 @@ module.exports = {
 	urls: [
 		"https://www.keywestgroundparrot.com/",
 		"https://www.kpimodoro.herokuapp.com/",
+		// "https://www.kpimodoro.herokuapp.com/",
 	]
 };
